@@ -1,0 +1,31 @@
+.imagem-perfil{
+    border-bottom: 100px;
+    max-width: 300px;
+    border: 1px solid black;
+}
+
+body{
+    background-color:rgb(214, 214, 214);
+}
+.s-m a{
+   width: 50px;
+   height: 50px;
+   color: rgb(3, 3, 3);
+   margin: 0.6px;
+   justify-content: center;
+   font-size: 50px;
+
+}
+.s-n a{
+    width: 50px;
+    height: 50px;
+    color: black;
+    margin: 0.6px;
+    justify-content: center;
+    font-size: 50px;
+}
+.r-p{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
